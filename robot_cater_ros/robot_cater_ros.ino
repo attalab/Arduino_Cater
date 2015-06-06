@@ -4,6 +4,7 @@
  */
  
  /*
+ Make sure your have ros_lib in your arduino
  Pin configuration of caterer Robot
  checked working of Ros with arduino and Opencv ......... 
  pin 7,6 for motor 1
